@@ -97,7 +97,7 @@
           "{killer} did not want to be a part of the {victim}'s heavy experiments."
         ]
       },
-      -{
+      {
         "KillerType": "Player",
         "VictimType": "TunnelDweller",
         "DamageType": "Bullet",
