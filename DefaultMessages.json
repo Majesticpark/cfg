@@ -43,30 +43,6 @@
       },
       {
         "KillerType": "Player",
-        "VictimType": "Animal",
-        "DamageType": "*",
-        "Messages": [
-          "{killer} killed a {victim} using a {weapon}."
-        ]
-      },
-      {
-        "KillerType": "Player",
-        "VictimType": "Animal",
-        "DamageType": "Bullet",
-        "Messages": [
-          "{killer} shot {victim} with a {weapon} from {distance}."
-        ]
-      },
-      {
-        "KillerType": "Player",
-        "VictimType": "Animal",
-        "DamageType": "Arrow",
-        "Messages": [
-          "{killer} shot a {victim} using their {weapon} over a distance of {distance}."
-        ]
-      },
-      {
-        "KillerType": "Player",
         "VictimType": "Murderer",
         "DamageType": "*",
         "Messages": [
@@ -102,7 +78,7 @@
         "VictimType": "TunnelDweller",
         "DamageType": "Bullet",
         "Messages": [
-          "{killer} shot {victim} with a {weapon} from {distance}."
+          "{killer} removed {victim} with a {weapon} from {distance}."
         ]
       },
       {
@@ -142,7 +118,7 @@
         "VictimType": "Helicopter",
         "DamageType": "*",
         "Messages": [
-          "{killer} finally got back at the {victim}."
+          "roflcopter down!.."
         ]
       },
       {
@@ -314,3 +290,4 @@
         ]
       }
     ]
+}
